@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+table,td,th{
+    border: 1px solid blue;
+    border-collapse: collapse
+}
+th{
+    background-color: rgb(60, 60, 60);
+    color: #ccc;
+}
+td,th{
+    padding: 10px;
+}
+.kozep{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+hr{
+    margin: 40px 0;
+    border: 5px solid black;
+}
