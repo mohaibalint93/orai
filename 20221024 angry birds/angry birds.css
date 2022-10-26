@@ -1,0 +1,44 @@
+body{
+    /* background-image: url(images/szendvics.jpg);
+    background-repeat: repeat; alapbeállítás 
+    background-repeat: no-repeat;
+    background-position: ; */
+
+    background-image: url(images/Hatter.png);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+img{
+    width: 500px;
+   display: block; 
+    margin: auto;
+}
+/* .kep{
+    text-align: center;
+} */
+.kiemelt{
+    color: rgb(33, 175, 223);
+    font-style: italic;
+}
+.fontos{
+    font-weight: bold;
+    color: red;
+}
+table{
+border: 2px solid blue;
+border-collapse: collapse ;
+background-color: lightgrey;
+}
+td{
+    border: 1px solid blue;
+    padding: 10px;
+}
