@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+    font-size: 10pt;
+    color: #555;
+}
+#tartalom{
+    width: 700px;
+    margin: auto;
+}
+#sztori{
+    width: 300px;
+    float: left;
+    margin-bottom: 30px;
+}
+img{
+    float: left;
+    margin: 0 50px 20px 0;
+}
+#reszletek{
+    clear: both;
+}
