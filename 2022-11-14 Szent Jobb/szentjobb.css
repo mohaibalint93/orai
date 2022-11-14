@@ -65,8 +65,11 @@ hr
     text-align: right;
     font-size: 12pt;
 }
-.bazilika{
-    
+a {
+    color: #E8D4A1; 
 }
-
+ a:hover
+{
+    color:cyan ;
+}
 
