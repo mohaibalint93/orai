@@ -1,0 +1,19 @@
+- p (font-size, font-weight, text-decoration, font-style, font-family)
+- b/strong, i/em
+- br, hr
+- span (color, background-color)
+- a ( font-family-> google fontok)
+----------------------------
+- több html -> ugrálás közöttük
+- internal CSS: tag
+- img (width, height,
+-----------------
+- internal css: class, ID
+- box-model:  margin, padding, border  (p -> background-color, width) 
+    - box-sizing: border-box; 
+-----------------
+- text-align
+- ul, ol (list-style-*)
+- span vs p -> in-line elem / block elem  -> div bevezetése
+- table  ()
+- css fájlt -> class, id
